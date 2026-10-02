@@ -8,27 +8,27 @@ $platos = [
     [
         "nombre" => "lomo saltado clasico",
         "descripcion" => "jugosos trozos de lomo fino salteados al wok con cebolla,tomate , aji amarillo ,servido con papa frita y arroz blanco",
-        "precio" => "28.00",
+        "precio" => " 28.00",
         "imagen" => "img/lomo saltado.jpg"
     ],
     [
 
         "nombre" => "pollo a la brasa",
         "descripcion" => "pollo sazonado con especias y hierbas, asado a la perfección, acompañado de papas fritas y ensalada fresca.",
-        "precio" => "50.00",
+        "precio" => " 50.00",
         "imagen" => "img/pollo a la brasa.jpg"
     ],
     [
         "nombre" => "ceviche de pescado",
         "descripcion" => "fresco pescado marinado en jugo de limón, mezclado con cebolla, culantro y ají, servido con camote y choclo.",
-        "precio" => "22.00",
+        "precio" => " 22.00",
         "imagen" => "img/ceviche pescado.jpg"
     ],
 
     [
         "nombre" => "arroz con pollo",
         "descripcion" => "arroz cocido con trozos de pollo, verduras y especias, servido con salsa de ají.",
-        "precio" => "20.00",
+        "precio" => " 20.00",
         "imagen" => "img/arroz con pollo.jpg"
     ]
 
